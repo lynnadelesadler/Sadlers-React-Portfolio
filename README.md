@@ -16,13 +16,14 @@ https://github.com/lynnadelesadler/Sadlers-React-Portfolio
 
 The URL of the Deployed Github Page  ...
 
-https://lynnadelesadler.github.io/Portfolio/
+https://lynnadelesadler.github.io/Sadlers-React-Portfolio/
+
 ## Visuals
 <!-- Provide the visuals for full display and phone display -->
 This is how the deployed Lynn Sadler Portfolio website will look
 
 
-<img src=".Images/homepage.jpg">
+<img src=".public/Images/homepage.jpg">
 
 
 When viewing the deployed Lynn Sadler Portfolio website on a cell phone the website is responsive. The Portfolio project cards will stack horizontally to fit the page width.
@@ -33,7 +34,7 @@ When viewing the deployed Lynn Sadler Portfolio website on a cell phone the webs
 <!-- This text is Italics -->
 *Utilize the Lynn Sadler Portfolio webpage through it's nav bar.*
 
-<img src=".Images/navbar.png">
+<img src=".public/Images/navbar.png">
 
 <!-- Provide the navigation links in list format -->
 * Clicking on About Me in the navigation will link you to that section on webpage.
