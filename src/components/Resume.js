@@ -1,4 +1,5 @@
 import React from "react";
+
 import { Container, Row, Col } from "react-bootstrap";
 
 const styles = {
@@ -30,7 +31,7 @@ function Resume() {
     <p className="content" class="space" style={styles.background}>
       <h5>Skills</h5>
       <Container style={styles.container} className="container my-5">
-     
+ 
     </Container>
     </p>
   </section>
