@@ -24,7 +24,6 @@ When viewing the deployed Lynn Sadler Portfolio website on a cell phone the webs
 <!-- This text is Italics -->
 *Utilize the Lynn Sadler Portfolio webpage through it's nav bar.*
 
-<img src="./Images/navbar.png">
 
 <!-- Provide the navigation links in list format -->
 * Clicking on About Me in the navigation will link you to that section on webpage.
